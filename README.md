@@ -13,3 +13,4 @@ List of modules:
 - [PrintF](./printf/)
 - [Loops](./loops/)
 - [Decision Making](./decision/)
+- [Arrays](./arrays/)
