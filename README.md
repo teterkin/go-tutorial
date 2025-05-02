@@ -20,3 +20,4 @@ List of modules:
 - [Defer, Recover, Panic](./deferrecoverpanic/)
 - [Structures](./structures/)
 - [Interfaces](./interfaces/)
+- [File I/O](./fileio/)
