@@ -15,3 +15,5 @@ List of modules:
 - [Decision Making](./decision/)
 - [Arrays](./arrays/)
 - [Maps](./maps/)
+- [Functions](./functions/)
+- [Recursion](./recursion/)
