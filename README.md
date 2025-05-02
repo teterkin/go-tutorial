@@ -17,3 +17,4 @@ List of modules:
 - [Maps](./maps/)
 - [Functions](./functions/)
 - [Recursion](./recursion/)
+- [Defer, Recover, Panic](./deferrecoverpanic/)
