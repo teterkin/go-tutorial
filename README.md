@@ -12,3 +12,4 @@ List of modules:
 - [Pointers](./pointers/)
 - [PrintF](./printf/)
 - [Loops](./loops/)
+- [Decision Making](./decision/)
