@@ -18,3 +18,5 @@ List of modules:
 - [Functions](./functions/)
 - [Recursion](./recursion/)
 - [Defer, Recover, Panic](./deferrecoverpanic/)
+- [Structures](./structures/)
+- [Interfaces](./interfaces/)
