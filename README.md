@@ -14,3 +14,4 @@ List of modules:
 - [Loops](./loops/)
 - [Decision Making](./decision/)
 - [Arrays](./arrays/)
+- [Maps](./maps/)
