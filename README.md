@@ -21,3 +21,4 @@ List of modules:
 - [Structures](./structures/)
 - [Interfaces](./interfaces/)
 - [File I/O](./fileio/)
+- [Web server](./webserver/)
