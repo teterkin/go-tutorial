@@ -7,3 +7,5 @@ Original tutorial video: [Go Programming Language Tutorial | Golang Tutorial For
 List of modules:
 
 - [Hello World](./helloworld/)
+- [Variables and Constants](./varsandconst/)
+- [Data Types](./datatypes/)
